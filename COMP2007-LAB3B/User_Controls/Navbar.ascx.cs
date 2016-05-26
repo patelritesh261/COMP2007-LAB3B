@@ -7,6 +7,7 @@ using System.Web.UI.WebControls;
 
 namespace COMP2007_LAB3B
 {
+    
     public partial class Navbar : System.Web.UI.UserControl
     {
         protected void Page_Load(object sender, EventArgs e)
